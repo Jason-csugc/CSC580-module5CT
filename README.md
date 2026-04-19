@@ -68,13 +68,24 @@ tensorboard --logdir logs/tox21
 
 1. Console output:
 - Weighted Random Forest train/validation/test accuracy
+
+<img width="493" height="116" alt="image" src="https://github.com/user-attachments/assets/02db52d3-ac26-4c83-9de6-3bc1c3d635cf" />
+
 - Per-configuration and averaged validation accuracy during grid search
 - Best hyperparameter set and final weighted test accuracy
+
+<img width="1265" height="616" alt="image" src="https://github.com/user-attachments/assets/97b04d98-fe2d-4595-87e6-b6347e57bc93" />
+
 - TensorBoard log directory path for each neural training run
 
 2. Artifacts:
 - TensorBoard event files in `logs/tox21/<timestamp>/`
+
+<img width="433" height="410" alt="image" src="https://github.com/user-attachments/assets/9e371dd4-1fc2-4908-a5f9-603c681bbfdc" />
+
 - Loss curve plot shown via Matplotlib (`Train Loss` vs `Validation Loss`)
+
+<img width="624" height="528" alt="image" src="https://github.com/user-attachments/assets/a0981881-9d63-440f-aeac-6095bd13e3b1" />
 
 ## Additional Links
 
