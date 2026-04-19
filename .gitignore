@@ -1,3 +1,7 @@
+# application-specific files
+logs/
+tox21.csv.gz
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -143,6 +147,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+mod5ct/
+mod5ct10/
 
 # Spyder project settings
 .spyderproject
