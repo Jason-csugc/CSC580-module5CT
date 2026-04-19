@@ -13,7 +13,7 @@ Workflow summary:
     6. Plot train/validation loss curves.
 
 Run:
-    python main.py
+    python3 main.py
 """
 
 import os
